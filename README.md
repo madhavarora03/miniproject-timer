@@ -39,4 +39,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 [GitHub Repository](https://github.com/madhavarora03/miniproject-timer)
+
 [Demo Link](https://madhavarora03.github.io/miniproject-timer)
